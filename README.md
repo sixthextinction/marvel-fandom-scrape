@@ -22,7 +22,7 @@ A (Node.js-based) web scraping tool designed to archive Fandom wiki pages. This 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/marvel-fandom-scrape.git
+git clone https://github.com/sixthextinction/marvel-fandom-scrape.git
 cd marvel-fandom-scrape
 ```
 
