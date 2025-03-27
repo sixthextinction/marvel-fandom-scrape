@@ -16,10 +16,7 @@ A (Node.js-based) web scraping tool designed to archive Fandom wiki pages. This 
 
 - Node.js
 - Bright Data Scraping Browser account and credentials
-- `puppeteer-core`: For web scraping
-- `sqlite3`: Database ops
-- `turndown`: HTML to Markdown conversion
-- `csv-parser`: CSV file processing
+- SQLite3 (database)
 
 ## Installation
 
